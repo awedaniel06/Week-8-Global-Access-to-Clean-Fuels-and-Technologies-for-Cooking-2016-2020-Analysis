@@ -8,7 +8,7 @@ This project analyzes the **"Access to Clean Fuels and Technologies for Cooking 
 
 ## Dashboard Preview
 
-![Dashboard](https://github.com/awedaniel06/Week-8-Global-Access-to-Clean-Fuels-and-Technologies-for-Cooking-2016-2020-Analysis/commit/16fe7148d1a4fe4b9b05e4aa937004624f194e2e)
+![Dashboard](https://github.com/awedaniel06/Week-8-Global-Access-to-Clean-Fuels-and-Technologies-for-Cooking-2016-2020-Analysis/blob/main/WDI%20dashboard.png)
 
 
 ## Dataset

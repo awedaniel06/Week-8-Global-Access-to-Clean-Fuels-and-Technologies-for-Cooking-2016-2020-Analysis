@@ -6,6 +6,11 @@
 ## Overview
 This project analyzes the **"Access to Clean Fuels and Technologies for Cooking (% of Population)"** indicator between 2016 and 2020, using data from the World Development Indicators (WDI) database published by the World Bank. The goal is to identify trends and disparities among countries and communicate the findings through an interactive Power BI dashboard, supporting progress toward UN Sustainable Development Goal 7 (Affordable and Clean Energy).
 
+## Dashboard Preview
+
+![Dashboard](https://github.com/awedaniel06/Week-8-Global-Access-to-Clean-Fuels-and-Technologies-for-Cooking-2016-2020-Analysis/commit/16fe7148d1a4fe4b9b05e4aa937004624f194e2e)
+
+
 ## Dataset
 - **Source:** World Development Indicators (World Bank)
 - **Indicator:** Access to Clean Fuels and Technologies for Cooking (% of Population)

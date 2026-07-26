@@ -33,7 +33,7 @@ Built in Power BI using:
 
 ## Key Findings
 - 265 countries and territories analyzed across 5 years (2016–2020)
-- Average global access rate: **67.46%**
+- Average global access rate: **67.05%**
 - Highest access rate: **100.00%**
 - Lowest access rate: **0.10%**
 - Global access increased steadily over the study period
